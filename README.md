@@ -1,4 +1,4 @@
-# Gemaldegalerie AR (Unity)
+# Gemäldegalerie AR (Unity)
  
 ## Project Member
 Vince Nguyen and Yitian Xu
@@ -7,7 +7,7 @@ Vince Nguyen and Yitian Xu
 https://vimeo.com/490130098
 
 ## Overview
-Gemaldegalerie AR is a technical prototype developed in partnership with museum4punkt0 and Gemaldegalerie (Berlin State Museums) investigating the use of AR for content contextualization in a museum setting. Targeted towards young audience, the application invites museum-goers to see the sides of a painting they never get to see: what is behind the layers of paint, what is the story behind each character, what it feels like to live in the era behind the frame? Its interactive features describe, but not prescribe; it does not tell museum-goers “how to look”, but “where to look”- it’s up to them to draw your their conclusions. We believe that all knowledge backgrounds deserve their own piece of memory at Gemäldegalerie.
+Gemaldegalerie AR is a technical prototype developed in partnership with museum4punkt0 and Gemäldegalerie (Berlin State Museums) investigating the use of AR for content contextualization in a museum setting. Targeted towards young audience, the application invites museum-goers to see the sides of a painting they never get to see: what is behind the layers of paint, what is the story behind each character, what it feels like to live in the era behind the frame? Its interactive features describe, but not prescribe; it does not tell museum-goers “how to look”, but “where to look”- it’s up to them to draw your their conclusions. We believe that all knowledge backgrounds deserve their own piece of memory at Gemäldegalerie.
 
 ## Technicality
 The prototype was developed using Unity 2020.1.13f1.  
@@ -45,7 +45,8 @@ It was targeted and tested for iPad Pro 10.5" 2017 (iPad OS version 14 or higher
 <i>Topic: Science – Hidden Layers (X-Ray)</i>
 
 ## Acknowledgement
-The project utilizes some visual identities provided by museum4punkt0 organization [here](https://github.com/museum4punkt0/Trompe-Loeil-AR)
+The project adopts some visual identities provided by museum4punkt0 organization [here](https://github.com/museum4punkt0/Trompe-Loeil-AR).  
+The project also utilizes paintings scans exclusively provided by [Gemäldegalerie](https://www.smb.museum/en/museums-institutions/gemaeldegalerie/home/).  
 
 ## Licensing
 MIT license
